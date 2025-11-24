@@ -448,6 +448,111 @@ Marketing Manager responsible for course development, sales, and LATAM client ac
 
 ---
 
+## Track 5: Meeting Platform Research & Setup
+
+### Goal
+Find a professional Zoom replacement with automatic recording that saves to a central location for Ivan's meeting analysis system.
+
+### Requirements
+- [ ] Professional video conferencing (HD video, screen sharing)
+- [ ] Automatic cloud recording (no manual start needed)
+- [ ] Automatic save to cloud storage (Google Drive, OneDrive, or custom)
+- [ ] Calendar integration (Google Calendar, Outlook)
+- [ ] Good audio quality for transcription
+- [ ] Reasonable pricing for small team
+- [ ] Works well in LATAM (low latency)
+
+### Platforms to Research & Compare
+
+#### Option 1: Google Meet (Google Workspace)
+- [ ] Research pricing (Business Starter $6/user/month)
+- [ ] Check automatic recording feature
+- [ ] Test Google Drive auto-save
+- [ ] Check transcription capabilities
+- [ ] Evaluate calendar integration
+
+#### Option 2: Microsoft Teams
+- [ ] Research pricing (Microsoft 365 Business Basic $6/user/month)
+- [ ] Check automatic recording to OneDrive/SharePoint
+- [ ] Test transcription quality
+- [ ] Evaluate for LATAM connectivity
+
+#### Option 3: Riverside.fm (Podcast/High-Quality Recording)
+- [ ] Research pricing ($15-24/month)
+- [ ] Check local recording quality (studio-grade)
+- [ ] Test automatic upload features
+- [ ] Good for client interviews/courses
+
+#### Option 4: Otter.ai + Any Platform
+- [ ] Research Otter.ai pricing ($8.33-20/month)
+- [ ] Works with Zoom, Meet, Teams
+- [ ] Automatic transcription + recording
+- [ ] Searchable transcripts
+
+#### Option 5: Fireflies.ai
+- [ ] Research pricing (Free tier available, $10-19/month)
+- [ ] AI meeting assistant
+- [ ] Automatic recording + transcription
+- [ ] Integrates with any video platform
+- [ ] Action items extraction
+
+#### Option 6: Fathom
+- [ ] Research pricing (Free for individuals)
+- [ ] AI meeting assistant
+- [ ] Works with Zoom, Meet, Teams
+- [ ] Automatic highlights and summaries
+
+#### Option 7: tl;dv
+- [ ] Research pricing (Free tier, Pro $20/month)
+- [ ] Recording + AI transcription
+- [ ] Timestamp highlights
+- [ ] Integrates with CRM
+
+### Comparison Matrix
+Create comparison spreadsheet with:
+- [ ] Monthly cost per user
+- [ ] Auto-recording capability
+- [ ] Cloud storage integration
+- [ ] Transcription quality (test with Spanish)
+- [ ] Calendar integration
+- [ ] Mobile app quality
+- [ ] Max meeting length
+- [ ] Max participants
+- [ ] LATAM server availability
+
+### Implementation Tasks
+- [ ] Set up free trials for top 3 options
+- [ ] Test each with team meeting
+- [ ] Test Spanish transcription accuracy
+- [ ] Test auto-save to designated folder
+- [ ] Get feedback from team
+- [ ] Make recommendation to Ivan
+- [ ] Set up chosen platform for team
+- [ ] Create folder structure for recordings:
+  ```
+  recordings/
+  ├── internal/
+  │   ├── team-syncs/
+  │   ├── strategy/
+  │   └── planning/
+  ├── client/
+  │   ├── sales-calls/
+  │   ├── demos/
+  │   └── onboarding/
+  └── external/
+      ├── interviews/
+      └── courses/
+  ```
+- [ ] Document recording procedures for team
+- [ ] Train team on new platform
+
+### Integration with Ivan's Analysis System
+- [ ] Ensure recordings save in format compatible with audio-to-text
+- [ ] Set up automatic sync to analysis folder
+- [ ] Test end-to-end: meeting → recording → transcription → analysis
+
+---
+
 ## Success Metrics
 
 ### Week 1
