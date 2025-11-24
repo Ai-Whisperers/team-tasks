@@ -1,17 +1,63 @@
 # AI-Whisperers Task Backlog
 
-## Purpose
-This is a comprehensive backlog of all pickable tasks across the organization. Team members can select tasks based on their capacity and skills. Tasks are organized by category and priority.
+## Overview
+
+This backlog has been reorganized into focused, category-specific files for easier navigation and task selection. The complete backlog contains **~950 tasks** representing **~1,380 hours** of identified work.
 
 ---
 
-## How to Use This Backlog
+## 📂 Organized Backlog Files
 
-1. **Pick a task** from your relevant section
-2. **Update the task** to add your name as owner
-3. **Move it** to your personal task file (ivan-tasks.md, jonathan-tasks.md, or kiki-tasks.md)
-4. **Update status** as you work on it
-5. **Mark complete** when done
+The backlog has been split into 9 focused files located in the [`backlog/`](backlog/) folder:
+
+| File | Category | Focus | Time |
+|------|----------|-------|------|
+| [01-production-systems.md](backlog/01-production-systems.md) | Production | Revenue-generating systems | 402h |
+| [02-data-processing.md](backlog/02-data-processing.md) | Data | Processing & analysis services | 242h |
+| [03-developer-tools.md](backlog/03-developer-tools.md) | Dev Tools | Tools & learning resources | 268h |
+| [04-infrastructure.md](backlog/04-infrastructure.md) | DevOps | Infrastructure & deployment | 209h |
+| [05-support-tools.md](backlog/05-support-tools.md) | Tools | Internal utilities | 205h |
+| [06-websites.md](backlog/06-websites.md) | Websites | Web presence & client sites | 203h |
+| [07-research-experimental.md](backlog/07-research-experimental.md) | Research | New projects & experiments | 231h |
+| [08-quick-wins.md](backlog/08-quick-wins.md) | Quick | Tasks under 30 minutes | 16h |
+| [09-github-org.md](backlog/09-github-org.md) | GitHub | Organization improvements | 53h |
+
+**📖 Start here:** [backlog/README.md](backlog/README.md) - Complete guide with tips, priority matrix, and weekly planning
+
+---
+
+## Quick Start
+
+### By Role
+
+**Jonathan (Lead Developer)**
+- Start: [01-production-systems.md](backlog/01-production-systems.md) - Fix URGENT bugs
+- Focus: Bug fixes, testing, deployment, performance optimization
+- Also: [04-infrastructure.md](backlog/04-infrastructure.md) for DevOps tasks
+
+**Kiki (Marketing Manager)**
+- Start: [06-websites.md](backlog/06-websites.md) - Content creation
+- Focus: Course content, marketing materials, documentation
+- Also: [03-developer-tools.md](backlog/03-developer-tools.md) for course development
+
+**Ivan (Product Development)**
+- Start: [07-research-experimental.md](backlog/07-research-experimental.md) - New projects
+- Focus: Company Intelligence System (62h), Meeting Analysis (70h)
+- Also: [01-production-systems.md](backlog/01-production-systems.md) for product features
+
+### By Priority
+
+- **🔴 URGENT** (~200 hours): Security, production bugs, deployment issues
+- **🟠 HIGH** (~600 hours): Revenue features, testing, performance, docs
+- **🟡 MEDIUM** (~500 hours): Technical debt, enhancements, internal tools
+- **🟢 LOW** (~80 hours): Future features, cleanup, polish
+
+### By Time Available
+
+- **15-30 minutes?** → [08-quick-wins.md](backlog/08-quick-wins.md) - 79 quick tasks
+- **2-4 hours?** → Pick any HIGH priority task from production or data processing
+- **Full day (8 hours)?** → Major feature from any category
+- **Full week?** → Take on Ivan's new projects or infrastructure setup
 
 ---
 
@@ -20,6 +66,22 @@ This is a comprehensive backlog of all pickable tasks across the organization. T
 - 🟠 **HIGH** - Should be done within 2 weeks
 - 🟡 **MEDIUM** - Should be done within 1 month
 - 🟢 **LOW** - Nice to have, no deadline
+
+---
+
+## How to Use This Backlog
+
+1. **Browse** the organized files by category or role
+2. **Pick a task** based on your capacity and priority
+3. **Update** your personal task file (ivan-tasks.md, jonathan-tasks.md, or kiki-tasks.md)
+4. **Track progress** as you work
+5. **Mark complete** when done
+
+---
+
+## Summary of Original Tasks (Now Organized)
+
+The tasks below have been reorganized into the category-specific files above. See the organized files for complete, detailed task lists with time estimates and priorities.
 
 ---
 
