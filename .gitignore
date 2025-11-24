@@ -1,0 +1,23 @@
+# Ignore downloaded repositories
+ai-whisperers-repos/
+
+# Ignore generated analysis files from agent
+repos_analysis_output.txt
+SUMMARY.txt
+DETAILED_ANALYSIS.md
+README_ANALYSIS.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
