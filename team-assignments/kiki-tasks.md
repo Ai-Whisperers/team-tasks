@@ -405,6 +405,49 @@ Marketing Manager responsible for course development, sales, and LATAM client ac
 
 ---
 
+## Track 4: Fundraising & Community Support
+
+### Patreon Setup
+- [ ] Create Patreon account for AI Whisperers
+- [ ] Design Patreon page with branding
+- [ ] Write compelling description of our mission
+- [ ] Create tier levels:
+  - [ ] $5/month - Supporter (thank you + updates)
+  - [ ] $10/month - Backer (early access to tools)
+  - [ ] $25/month - Patron (monthly Q&A sessions)
+  - [ ] $50/month - Sponsor (logo on website + priority support)
+- [ ] Add goals and milestones
+- [ ] Create welcome message for new patrons
+- [ ] Plan monthly content/updates for patrons
+- [ ] Link Patreon to website and social media
+
+### Buy Me a Coffee Setup
+- [ ] Create Buy Me a Coffee account for AI Whisperers
+- [ ] Design page with AI Whisperers branding
+- [ ] Write thank you message
+- [ ] Set suggested amounts ($3, $5, $10)
+- [ ] Add description of what donations support
+- [ ] Create a few "extras" people can buy:
+  - [ ] Coffee ($5) - Quick thank you
+  - [ ] Lunch ($15) - Detailed thank you + name on supporters page
+  - [ ] Membership - Monthly supporter
+- [ ] Link to website footer and GitHub repos
+- [ ] Add to email signatures
+
+### Integration & Promotion
+- [ ] Add Patreon/BMAC links to:
+  - [ ] ai-whisperers-portfolio-website footer
+  - [ ] GitHub organization profile
+  - [ ] All public repo READMEs
+  - [ ] Email signatures
+  - [ ] Social media bios
+  - [ ] Course materials
+- [ ] Create FUNDING.yml for GitHub sponsors display
+- [ ] Announce on LinkedIn and social media
+- [ ] Create graphics for promotion
+
+---
+
 ## Success Metrics
 
 ### Week 1
