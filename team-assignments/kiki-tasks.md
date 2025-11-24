@@ -464,56 +464,53 @@ Find a professional Zoom replacement with automatic recording that saves to a ce
 
 ### Platforms to Research & Compare
 
+**Note**: We only need recording + cloud save. Ivan's team will handle transcription and AI analysis separately using our own tools.
+
 #### Option 1: Google Meet (Google Workspace)
 - [ ] Research pricing (Business Starter $6/user/month)
 - [ ] Check automatic recording feature
 - [ ] Test Google Drive auto-save
-- [ ] Check transcription capabilities
 - [ ] Evaluate calendar integration
+- [ ] Check recording format (mp4, audio quality)
 
 #### Option 2: Microsoft Teams
 - [ ] Research pricing (Microsoft 365 Business Basic $6/user/month)
 - [ ] Check automatic recording to OneDrive/SharePoint
-- [ ] Test transcription quality
 - [ ] Evaluate for LATAM connectivity
+- [ ] Check recording format
 
 #### Option 3: Riverside.fm (Podcast/High-Quality Recording)
 - [ ] Research pricing ($15-24/month)
 - [ ] Check local recording quality (studio-grade)
 - [ ] Test automatic upload features
 - [ ] Good for client interviews/courses
+- [ ] Separate audio tracks per speaker
 
-#### Option 4: Otter.ai + Any Platform
-- [ ] Research Otter.ai pricing ($8.33-20/month)
-- [ ] Works with Zoom, Meet, Teams
-- [ ] Automatic transcription + recording
-- [ ] Searchable transcripts
+#### Option 4: Around.co
+- [ ] Research pricing
+- [ ] Check recording features
+- [ ] Minimalist design
+- [ ] Good for remote teams
 
-#### Option 5: Fireflies.ai
-- [ ] Research pricing (Free tier available, $10-19/month)
-- [ ] AI meeting assistant
-- [ ] Automatic recording + transcription
-- [ ] Integrates with any video platform
-- [ ] Action items extraction
+#### Option 5: Whereby
+- [ ] Research pricing (Free tier, $6.99-9.99/month)
+- [ ] Browser-based (no download)
+- [ ] Check recording to cloud
+- [ ] Good for client meetings
 
-#### Option 6: Fathom
-- [ ] Research pricing (Free for individuals)
-- [ ] AI meeting assistant
-- [ ] Works with Zoom, Meet, Teams
-- [ ] Automatic highlights and summaries
-
-#### Option 7: tl;dv
-- [ ] Research pricing (Free tier, Pro $20/month)
-- [ ] Recording + AI transcription
-- [ ] Timestamp highlights
-- [ ] Integrates with CRM
+#### Option 6: Discord (Free Option)
+- [ ] Free for teams
+- [ ] Check recording options (Craig bot, OBS)
+- [ ] Good audio quality
+- [ ] Always-on voice channels
 
 ### Comparison Matrix
 Create comparison spreadsheet with:
 - [ ] Monthly cost per user
 - [ ] Auto-recording capability
 - [ ] Cloud storage integration
-- [ ] Transcription quality (test with Spanish)
+- [ ] Recording format (mp4, wav, etc.)
+- [ ] Audio quality for transcription
 - [ ] Calendar integration
 - [ ] Mobile app quality
 - [ ] Max meeting length
@@ -523,7 +520,7 @@ Create comparison spreadsheet with:
 ### Implementation Tasks
 - [ ] Set up free trials for top 3 options
 - [ ] Test each with team meeting
-- [ ] Test Spanish transcription accuracy
+- [ ] Test audio quality for our transcription tools
 - [ ] Test auto-save to designated folder
 - [ ] Get feedback from team
 - [ ] Make recommendation to Ivan
